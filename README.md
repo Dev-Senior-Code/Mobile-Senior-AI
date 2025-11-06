@@ -10,14 +10,14 @@ Este programa está estructurado en **4 módulos**, cada uno abordando una etapa
 
 ## Contenido del Programa
 
-### [MÓDULO 1: Flutter Junior Developer – Professional App Foundations](./modulo-01/README.md)
+### [MÓDULO 1: Flutter Junior Developer – Professional App Foundations](/Modulo-01/README.md)
 
 #### Descripción:
 En este primer módulo, el estudiante se familiariza con los conceptos esenciales del lenguaje Dart, la estructura de un proyecto Flutter profesional y el entorno moderno de desarrollo. Se enfatiza el dominio de los fundamentos de Flutter y Dart, UI/UX avanzado, widgets profesionales, diseño multiplataforma, navegación compleja y gestión de estado (Provider, Bloc, Riverpod).
 
 
 
-### [MÓDULO 2: Mobile Developer & Services Cloud – Enterprise Cloud Integration](./modulo-02/README.md)
+### [MÓDULO 2: Mobile Developer & Services Cloud – Enterprise Cloud Integration](/Modulo-02/README.md)
 
 #### Descripción:
 En este módulo, el estudiante aprenderá a integrar APIs REST reales, manejar autenticación y seguridad en el cliente móvil. Se enfatiza la integración de Firebase como backend serverless (Auth, Firestore, Storage, FCM), el consumo avanzado de APIs con Dio, y la implementación de autenticación segura con JWT.
