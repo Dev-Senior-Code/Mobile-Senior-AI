@@ -1,7 +1,7 @@
 void main() {
   Map<String, dynamic> puntuaciones = {'Ana': 10, 'Luis': 'Hola', 'Sofia': 1.0};
 
-  var configuracion = <String, String>{};
+  // var configuracion = <String, String>{};
 
   print(puntuaciones['Ana']);
   print(puntuaciones.containsKey('Ana'));
